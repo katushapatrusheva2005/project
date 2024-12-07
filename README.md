@@ -8,3 +8,4 @@
 ---
 # Реализация проекта:
 - 24.10 – реализована организация файлов и каталогов в проекте. Создана структура проекта, добавлены описания для разделов.
+https://www.figma.com/design/7pm41ZNEmrCm6kzyymU9Ta/Books-Review-and-Read--Website-(Community)?node-id=0-1
